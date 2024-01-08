@@ -1,1 +1,1 @@
-# ecommerce
+UrbanVogue-  An ecommerce website for shopping clothes and apparels for kids, men and women. All the categories have a separate section to select the product. The website also contains a shopping cart in which the product can be added and it lets you know the total amount of the products.
